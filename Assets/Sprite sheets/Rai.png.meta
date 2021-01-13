@@ -1,0 +1,1342 @@
+fileFormatVersion: 2
+guid: d808bcc65c46ebf45aac21942147cd2d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -30602088322894476
+    second: Rai Polished 4 frames per action_0
+  - first:
+      213: -4772501865268715598
+    second: Rai Polished 4 frames per action_1
+  - first:
+      213: -4901728985765856863
+    second: Rai Polished 4 frames per action_2
+  - first:
+      213: 1312524240436157618
+    second: Rai Polished 4 frames per action_3
+  - first:
+      213: 475436216074706618
+    second: Rai Polished 4 frames per action_4
+  - first:
+      213: -1832587155438666822
+    second: Rai Polished 4 frames per action_5
+  - first:
+      213: -3282059002048485902
+    second: Rai Polished 4 frames per action_6
+  - first:
+      213: 309346422613722471
+    second: Rai Polished 4 frames per action_7
+  - first:
+      213: 1570911576736498676
+    second: Rai Polished 4 frames per action_8
+  - first:
+      213: -7595492881704367682
+    second: Rai Polished 4 frames per action_9
+  - first:
+      213: -5115319189631029222
+    second: Rai Polished 4 frames per action_10
+  - first:
+      213: 7259998046652916147
+    second: Rai Polished 4 frames per action_11
+  - first:
+      213: -5756722500558939306
+    second: Rai Polished 4 frames per action_12
+  - first:
+      213: -7357581331426086413
+    second: Rai Polished 4 frames per action_13
+  - first:
+      213: 7397258082313426549
+    second: Rai Polished 4 frames per action_14
+  - first:
+      213: 5618167059500054569
+    second: Rai Polished 4 frames per action_15
+  - first:
+      213: -7017185963988141385
+    second: Rai Polished 4 frames per action_16
+  - first:
+      213: -2175194381128885271
+    second: Rai Polished 4 frames per action_17
+  - first:
+      213: 2610963546191570593
+    second: Rai Polished 4 frames per action_18
+  - first:
+      213: 2623252934636653982
+    second: Rai Polished 4 frames per action_19
+  - first:
+      213: -7280863987735227873
+    second: Rai Polished 4 frames per action_20
+  - first:
+      213: 7471269061463134757
+    second: Rai Polished 4 frames per action_21
+  - first:
+      213: 3847055084976247083
+    second: Rai Polished 4 frames per action_22
+  - first:
+      213: 3043234303563046065
+    second: Rai Polished 4 frames per action_23
+  - first:
+      213: -8383338412277923967
+    second: Rai Polished 4 frames per action_24
+  - first:
+      213: 5137236241110440957
+    second: Rai Polished 4 frames per action_25
+  - first:
+      213: 7214050752384602221
+    second: Rai Polished 4 frames per action_26
+  - first:
+      213: -5400252188754848514
+    second: Rai Polished 4 frames per action_27
+  - first:
+      213: 2844073100066868028
+    second: Rai Polished 4 frames per action_28
+  - first:
+      213: -9202230752823844419
+    second: Rai Polished 4 frames per action_29
+  - first:
+      213: 4174871475236638815
+    second: Rai Polished 4 frames per action_30
+  - first:
+      213: -8882305478515606037
+    second: Rai Polished 4 frames per action_31
+  - first:
+      213: 4524220553184285947
+    second: Rai Polished 4 frames per action_32
+  - first:
+      213: 2991644968460948088
+    second: Rai Polished 4 frames per action_33
+  - first:
+      213: -3190243322991251725
+    second: Rai Polished 4 frames per action_34
+  - first:
+      213: 4470120578034465261
+    second: Rai Polished 4 frames per action_35
+  - first:
+      213: 3333124251924295232
+    second: Rai Polished 4 frames per action_36
+  - first:
+      213: -7911042434943621787
+    second: Rai Polished 4 frames per action_37
+  - first:
+      213: 4051298477776797781
+    second: Rai Polished 4 frames per action_38
+  - first:
+      213: -4379578806252300001
+    second: Rai Polished 4 frames per action_39
+  - first:
+      213: -3691942892880871575
+    second: Rai Polished 4 frames per action_0
+  - first:
+      213: -4638204014441636503
+    second: Rai Polished 4 frames per action_1
+  - first:
+      213: 5712553166694196079
+    second: Rai Polished 4 frames per action_2
+  - first:
+      213: 1264987429588376958
+    second: Rai Polished 4 frames per action_3
+  - first:
+      213: -2675923578540849515
+    second: Rai Polished 4 frames per action_4
+  - first:
+      213: 6581168479751019724
+    second: Rai Polished 4 frames per action_5
+  - first:
+      213: -1635473019353856352
+    second: Rai Polished 4 frames per action_6
+  - first:
+      213: -5838071241964684851
+    second: Rai Polished 4 frames per action_7
+  - first:
+      213: -6870221953203838252
+    second: Rai Polished 4 frames per action_8
+  - first:
+      213: 1513564267534981979
+    second: Rai Polished 4 frames per action_9
+  - first:
+      213: -6826677961541565934
+    second: Rai Polished 4 frames per action_10
+  - first:
+      213: 5411437963699405355
+    second: Rai Polished 4 frames per action_11
+  - first:
+      213: -6151405748443407140
+    second: Rai Polished 4 frames per action_12
+  - first:
+      213: 3222607228253393282
+    second: Rai Polished 4 frames per action_13
+  - first:
+      213: 1906346247320728393
+    second: Rai Polished 4 frames per action_14
+  - first:
+      213: -8784277635937597617
+    second: Rai Polished 4 frames per action_15
+  - first:
+      213: -5579900682100162431
+    second: Rai Polished 4 frames per action_16
+  - first:
+      213: 7345386832752336396
+    second: Rai Polished 4 frames per action_17
+  - first:
+      213: -489880134316406212
+    second: Rai Polished 4 frames per action_18
+  - first:
+      213: 2660020529658826497
+    second: Rai Polished 4 frames per action_19
+  - first:
+      213: -6177854479583744284
+    second: Rai Polished 4 frames per action_20
+  - first:
+      213: 8000122176791932439
+    second: Rai Polished 4 frames per action_21
+  - first:
+      213: 5098843569826471543
+    second: Rai Polished 4 frames per action_22
+  - first:
+      213: 2545133547836404841
+    second: Rai Polished 4 frames per action_23
+  - first:
+      213: -1981733422895529646
+    second: Rai Polished 4 frames per action_24
+  - first:
+      213: 1269938808865382165
+    second: Rai Polished 4 frames per action_25
+  - first:
+      213: -2617135824896394554
+    second: Rai Polished 4 frames per action_26
+  - first:
+      213: 8785144103227066855
+    second: Rai Polished 4 frames per action_27
+  - first:
+      213: -5720044943036934501
+    second: Rai Polished 4 frames per action_28
+  - first:
+      213: 9042844742469744349
+    second: Rai Polished 4 frames per action_29
+  - first:
+      213: 2211512824471182831
+    second: Rai Polished 4 frames per action_30
+  - first:
+      213: 1938332741985079666
+    second: Rai Polished 4 frames per action_31
+  - first:
+      213: 473554830864701142
+    second: Rai Polished 4 frames per action_32
+  - first:
+      213: 5406262022189137551
+    second: Rai Polished 4 frames per action_33
+  - first:
+      213: 3208477667810439727
+    second: Rai Polished 4 frames per action_34
+  - first:
+      213: 377557749791801831
+    second: Rai Polished 4 frames per action_35
+  - first:
+      213: -5923939727903923360
+    second: Rai Polished 4 frames per action_36
+  - first:
+      213: 6460492897807134329
+    second: Rai Polished 4 frames per action_37
+  - first:
+      213: 2827484245043289310
+    second: Rai Polished 4 frames per action_38
+  - first:
+      213: 2554569341933699098
+    second: Rai Polished 4 frames per action_39
+  - first:
+      213: -8459650729846080223
+    second: Rai_0
+  - first:
+      213: -3597244497622237747
+    second: Rai_1
+  - first:
+      213: -2174513741515909136
+    second: Rai_2
+  - first:
+      213: 2191588262961077940
+    second: Rai_3
+  - first:
+      213: 7688746349808307507
+    second: Rai_4
+  - first:
+      213: -4384359967079126400
+    second: Rai_5
+  - first:
+      213: -4732478591697563462
+    second: Rai_6
+  - first:
+      213: 4566255543153181580
+    second: Rai_7
+  - first:
+      213: -5145734004236968372
+    second: Rai_8
+  - first:
+      213: 8811773273942143265
+    second: Rai_9
+  - first:
+      213: -5462582390464826877
+    second: Rai_10
+  - first:
+      213: -5008408079499280974
+    second: Rai_11
+  - first:
+      213: -1083553927467603827
+    second: Rai_12
+  - first:
+      213: 4745023748305951052
+    second: Rai_13
+  - first:
+      213: 5132527505484265021
+    second: Rai_14
+  - first:
+      213: 6543051410935533668
+    second: Rai_15
+  - first:
+      213: -8400993019108416406
+    second: Rai_16
+  - first:
+      213: -5365883207037661206
+    second: Rai_17
+  - first:
+      213: -4174966097590732349
+    second: Rai_18
+  - first:
+      213: 956571074326654530
+    second: Rai_19
+  - first:
+      213: -1065325256044250009
+    second: Rai_20
+  - first:
+      213: 6045375396279340752
+    second: Rai_21
+  - first:
+      213: -7136923444984133122
+    second: Rai_22
+  - first:
+      213: 4294074905816805584
+    second: Rai_23
+  - first:
+      213: 6167289576408858013
+    second: Rai_24
+  - first:
+      213: 2864384312385308605
+    second: Rai_25
+  - first:
+      213: 5768579213624589992
+    second: Rai_26
+  - first:
+      213: -6120792816420277917
+    second: Rai_27
+  - first:
+      213: 86337855682775307
+    second: Rai_28
+  - first:
+      213: 4297511716299438699
+    second: Rai_29
+  - first:
+      213: 3370323535973651028
+    second: Rai_30
+  - first:
+      213: 1016349352993311035
+    second: Rai_31
+  - first:
+      213: 329287392266311405
+    second: Rai_32
+  - first:
+      213: 5803718729009083682
+    second: Rai_33
+  - first:
+      213: -3784019938684745133
+    second: Rai_34
+  - first:
+      213: -1144831864004894414
+    second: Rai_35
+  - first:
+      213: 8760179766930170588
+    second: Rai_36
+  - first:
+      213: -4040321875119468181
+    second: Rai_37
+  - first:
+      213: 6805062598222611151
+    second: Rai_38
+  - first:
+      213: -7101224866532898398
+    second: Rai_39
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Rai_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12d76ab7b78499a80800000000000000
+      internalID: -8459650729846080223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rai_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcd7ffc3035041ec0800000000000000
+      internalID: -3597244497622237747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rai_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f71dbde54392d1e0800000000000000
+      internalID: -2174513741515909136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rai_3
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bed5b3e9e51a6e10800000000000000
+      internalID: 2191588262961077940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rai_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33dc764811ae3ba60800000000000000
+      internalID: 7688746349808307507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rai_5
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08a2ecad6df9723c0800000000000000
+      internalID: -4384359967079126400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rai_6
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab0d9ba6bcbd25eb0800000000000000
+      internalID: -4732478591697563462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rai_7
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c83cd4339399e5f30800000000000000
+      internalID: 4566255543153181580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rai_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4e9ec8bf2ea698b0800000000000000
+      internalID: -5145734004236968372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rai_9
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1213a9a1b15b94a70800000000000000
+      internalID: 8811773273942143265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rai_10
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3023a0402420134b0800000000000000
+      internalID: -5462582390464826877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rai_11
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bdbf3b236f8e7ab0800000000000000
+      internalID: -5008408079499280974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rai_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d886052a17176f0f0800000000000000
+      internalID: -1083553927467603827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rai_13
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c49919875f5b9d140800000000000000
+      internalID: 4745023748305951052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rai_14
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d36bf4ca2966a3740800000000000000
+      internalID: 5132527505484265021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rai_15
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4605ee777969dca50800000000000000
+      internalID: 6543051410935533668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rai_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a64a1870c5da96b80800000000000000
+      internalID: -8400993019108416406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rai_17
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aef494227ad8885b0800000000000000
+      internalID: -5365883207037661206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rai_18
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c93ec3447a8f06c0800000000000000
+      internalID: -4174966097590732349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rai_19
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24e67afe25c664d00800000000000000
+      internalID: 956571074326654530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rai_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76cfa3fe2543731f0800000000000000
+      internalID: -1065325256044250009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rai_21
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0decd15a4ec75e350800000000000000
+      internalID: 6045375396279340752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rai_22
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef9409890fd84fc90800000000000000
+      internalID: -7136923444984133122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rai_23
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d03128306e979b30800000000000000
+      internalID: 4294074905816805584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rai_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9db1dca13d969550800000000000000
+      internalID: 6167289576408858013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rai_25
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db78def1b5650c720800000000000000
+      internalID: 2864384312385308605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rai_26
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aebbc64b3c1e0050800000000000000
+      internalID: 5768579213624589992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rai_27
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 361b181ec539e0ba0800000000000000
+      internalID: -6120792816420277917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rai_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0904a282dbb23100800000000000000
+      internalID: 86337855682775307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rai_29
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6a7b140324d3ab30800000000000000
+      internalID: 4297511716299438699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rai_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45219d3366bc5ce20800000000000000
+      internalID: 3370323535973651028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rai_31
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b394dd80a5cca1e00800000000000000
+      internalID: 1016349352993311035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rai_32
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de65c0d732dd19400800000000000000
+      internalID: 329287392266311405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rai_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2253ed24f63fa8050800000000000000
+      internalID: 5803718729009083682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rai_34
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35a43b31ae57c7bc0800000000000000
+      internalID: -3784019938684745133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rai_35
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 231a07a3c7dbc10f0800000000000000
+      internalID: -1144831864004894414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rai_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd2ef68a519629970800000000000000
+      internalID: 8760179766930170588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rai_37
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b61934f39a4ede7c0800000000000000
+      internalID: -4040321875119468181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rai_38
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc20b59d060707e50800000000000000
+      internalID: 6805062598222611151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rai_39
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a9c2289b91637d90800000000000000
+      internalID: -7101224866532898398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
