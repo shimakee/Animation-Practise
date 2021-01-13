@@ -10,7 +10,7 @@ public class Billboarding : MonoBehaviour
     [SerializeField] bool clampY;
     [SerializeField] bool clampZ;
 
-    private void FixedUpdate()
+    private void LateUpdate()
     {
         transform.LookAt(target.transform.position);
 
